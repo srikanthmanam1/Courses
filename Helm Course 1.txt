@@ -1,0 +1,7 @@
+Helm: The Definitive Guide from Beginner to Master
+
+https://gale.udemy.com/course/definitive-helm-course-beginner-master/learn/lecture/46456923?start=30#overview
+GitHub links
+https://github.com/lm-academy/config-store
+https://github.com/lm-academy/helm-course
+
