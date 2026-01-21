@@ -4,6 +4,9 @@ https://learn.kodekloud.com/user/courses/helm-for-beginners/module/5e29d34e-ed29
 https://kodekloud.com/kk-media/image/upload/v1702627962/course-resource-new/helm-deck.pdf
 https://notes.kodekloud.com/docs/Helm-for-Beginners/Introduction/Course-Introduction
 
+HELM - Package Manager for Kubernetes Complete Master Course
+
+https://gale.udemy.com/course/helm-package-manager-for-kubernetes-complete-master-course/learn/lecture/20460561#overview
 
 Helm: The Definitive Guide from Beginner to Master
 
