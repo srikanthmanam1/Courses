@@ -12,3 +12,5 @@ GitHub links
 https://github.com/lm-academy/config-store
 https://github.com/lm-academy/helm-course
 
+Helm Masterclass: 50 Practical Demos for Kubernetes DevOps
+https://gale.udemy.com/course/helm-masterclass-50-practical-demos-for-kubernetes-devops/learn/lecture/39198784?start=0#overview
