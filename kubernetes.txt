@@ -1,0 +1,27 @@
+Certified Kubernetes Administrator (CKA)
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator
+
+https://gale.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12299352?start=0#overview
+
+https://notes.kodekloud.com/docs/AI-900-Microsoft-Certified-Azure-AI-Fundamentals/Introduction/Certification-Details
+https://kodekloud.com/kk-media/image/upload/v1702468163/course-resource-new/Kubernetes-CKA-0100-Core-Concepts-1.pdf
+https://kodekloud.com/kk-media/image/upload/v1702468165/course-resource-new/Kubernetes-services.pdf
+
+https://notes.kodekloud.com/docs/CKA-Certification-Course-Certified-Kubernetes-Administrator/Introduction/Course-Introduction
+
+https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+
+https://github.com/kubernetes/community/blob/master/contributors/devel/sig-scheduling/scheduling_code_hierarchy_overview.md
+
+https://kubernetes.io/blog/2017/03/advanced-scheduling-in-kubernetes/
+
+https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/
+
+https://stackoverflow.com/questions/28857993/how-does-kubernetes-scheduler-work
+
+Kube adm Install
+The vagrant file used in the next video is available here:
+https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+
+Here’s the link to the documentation:
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
