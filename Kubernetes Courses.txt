@@ -22,6 +22,6 @@ https://stackoverflow.com/questions/28857993/how-does-kubernetes-scheduler-work
 Kube adm Install
 The vagrant file used in the next video is available here:
 https://github.com/kodekloudhub/certified-kubernetes-administrator-course
-
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 Here’s the link to the documentation:
 https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
