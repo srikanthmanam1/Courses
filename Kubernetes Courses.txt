@@ -1,9 +1,60 @@
 Certified Kubernetes Administrator (CKA)
 https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator
-
 https://gale.udemy.com/course/certified-kubernetes-application-developer/learn/lecture/12299352?start=0#overview
 
-https://notes.kodekloud.com/docs/AI-900-Microsoft-Certified-Azure-AI-Fundamentals/Introduction/Certification-Details
+Chapters
+1. Introduction	4 Lessons
+
+2. Core Concepts	43 Lessons
+ETCD - Commands: 
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/c6d2ac7d-8192-4cff-aa54-e36d888c5bd9/lesson/23a464ed-51a6-4c48-9ebd-d126d380a3ad
+Certification Tip!
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/c6d2ac7d-8192-4cff-aa54-e36d888c5bd9/lesson/838a2693-38ad-4725-bf28-4bd4a18fc19d
+Certification Tip: Imperative commands with kubectl
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/c6d2ac7d-8192-4cff-aa54-e36d888c5bd9/lesson/7814bc96-9352-4348-82f0-783f19cde47b
+Presentation
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/c6d2ac7d-8192-4cff-aa54-e36d888c5bd9/lesson/df7ca8e2-0c84-4c5b-ab68-55198636a7a8
+Kubernetes - CKA - 0100 - Core Concepts.pdf
+https://kodekloud.com/kk-media/image/upload/v1702468163/course-resource-new/Kubernetes-CKA-0100-Core-Concepts-1.pdf
+Kubernetes-services.pdf Core concepts -2
+https://kodekloud.com/kk-media/image/upload/v1702468165/course-resource-new/Kubernetes-services.pdf
+Notes
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/c6d2ac7d-8192-4cff-aa54-e36d888c5bd9/lesson/276508df-634f-4853-a4ae-6bc5dc8517a1
+https://notes.kodekloud.com/docs/CKA-Certification-Course-Certified-Kubernetes-Administrator/Introduction/Course-Introduction
+Reference Notes for lectures and Labs
+https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+
+3. Scheduling	39 Lessons
+
+4. Logging & Monitoring	8 Lessons
+
+5. Application Lifecycle Management	35 Lessons
+
+6. Cluster Maintenance	16 Lessons
+
+7. Security	46 Lessons
+
+8. Storage	15 Lessons
+
+9. Networking	36 Lessons
+
+10. Design and Install a Kubernetes Cluster	6 Lessons
+
+11. Install "Kubernetes the kubeadm way"	6 Lessons
+
+12. Helm Basics (2025 Updates)	11 Lessons
+
+13. Kustomize Basics (2025 Updates)	22 Lessons
+
+14. Troubleshooting	13 Lessons
+
+15. Other Topics	3 Lessons
+
+16. Lightning Labs	2 Lessons
+
+17. Mock Exams	11 Lessons
+
+
 https://kodekloud.com/kk-media/image/upload/v1702468163/course-resource-new/Kubernetes-CKA-0100-Core-Concepts-1.pdf
 https://kodekloud.com/kk-media/image/upload/v1702468165/course-resource-new/Kubernetes-services.pdf
 
