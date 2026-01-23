@@ -25,10 +25,41 @@ Reference Notes for lectures and Labs
 https://github.com/kodekloudhub/certified-kubernetes-administrator-course
 
 3. Scheduling	39 Lessons
+A Quick Note on editing PODs and Deployments
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/cd124bdf-9911-4cc1-8177-f2d8b6dfd2a0/lesson/5bdc8a34-7b5a-4437-9a06-2d921598ea62
+References
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/cd124bdf-9911-4cc1-8177-f2d8b6dfd2a0/lesson/708efa2d-0eec-414d-bef2-9bd8b8b531d1
+https://github.com/kubernetes/community/blob/master/contributors/devel/sig-scheduling/scheduling_code_hierarchy_overview.md
+https://kubernetes.io/blog/2017/03/advanced-scheduling-in-kubernetes/
+https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/
+https://stackoverflow.com/questions/28857993/how-does-kubernetes-scheduler-work
+Presentation
+Kubernetes-CKA-0200-Scheduling
+https://kodekloud.com/kk-media/image/upload/v1702468580/course-resource-new/Kubernetes-CKA-0200-Scheduling-1.pdf
+Networking.pdf
+https://kodekloud.com/kk-media/image/upload/v1702468582/course-resource-new/Networking.pdf
+Static Pods.pdf
+https://kodekloud.com/kk-media/image/upload/v1702468583/course-resource-new/Static-Pods.pdf
+Kubernetes-taints-tolerations.pdf
+https://kodekloud.com/kk-media/image/upload/v1702468584/course-resource-new/Kubernetes-taints-tolerations-2.pdf
 
 4. Logging & Monitoring	8 Lessons
+Presentation
+https://kodekloud.com/kk-media/image/upload/v1702468628/course-resource-new/Kubernetes-CKA-0300-Logging-Monitoring-1.pdf
 
 5. Application Lifecycle Management	35 Lessons
+Configuring Applications
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/2ddcf79b-abb0-4aeb-ad0c-3d54c7b4fc64/lesson/3a19636b-716b-4505-b516-2ba70a17788e
+Additional Resources
+https://www.youtube.com/watch?v=MTnQW9MxnRI
+A note on Secrets
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/2ddcf79b-abb0-4aeb-ad0c-3d54c7b4fc64/lesson/6aaf4273-6b39-4c0b-abeb-bc2efb571cc5
+Init Containers
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/2ddcf79b-abb0-4aeb-ad0c-3d54c7b4fc64/lesson/27822812-d758-428d-91db-942db6800ab1
+Self Healing Applications
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/2ddcf79b-abb0-4aeb-ad0c-3d54c7b4fc64/lesson/4090dc32-8853-48b3-9f37-db9af2ef71fb
+Presentation
+https://kodekloud.com/kk-media/image/upload/v1702468823/course-resource-new/Kubernetes-CKA-0400-Application-Lifecycle-Management-1.pdf
 
 6. Cluster Maintenance	16 Lessons
 
