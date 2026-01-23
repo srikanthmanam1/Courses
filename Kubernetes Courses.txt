@@ -62,6 +62,22 @@ Presentation
 https://kodekloud.com/kk-media/image/upload/v1702468823/course-resource-new/Kubernetes-CKA-0400-Application-Lifecycle-Management-1.pdf
 
 6. Cluster Maintenance	16 Lessons
+References
+https://kubernetes.io/docs/concepts/overview/kubernetes-api/
+Here is a link to Kubernetes documentation if you want to learn more about this topic (You don’t need it for the exam, though):
+https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api-conventions.md
+https://github.com/kubernetes/community/blob/master/contributors/devel/sig-architecture/api_changes.md
+Working with ETCDCTL & ETCDUTL
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/51676566-4860-4564-ad8e-4723a266211e/lesson/dc488b06-cfc5-41d7-81de-ab5c36be31cf
+Certification Exam Tip
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/51676566-4860-4564-ad8e-4723a266211e/lesson/c96b0466-ff7a-48fd-9aad-92b8750989df
+etcd References
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/51676566-4860-4564-ad8e-4723a266211e/lesson/89026bdc-bf92-4011-aa42-94c9b5e2d5b0
+https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster 
+https://github.com/etcd-io/website/blob/main/content/en/docs/v3.5/op-guide/recovery.md 
+https://www.youtube.com/watch?v=qRPNuT080Hk
+Presentation
+https://kodekloud.com/kk-media/image/upload/v1702469024/course-resource-new/Kubernetes-CKA-0500-Cluster-Maintenance-v1.2-1.pdf
 
 7. Security	46 Lessons
 
