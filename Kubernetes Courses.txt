@@ -80,46 +80,78 @@ Presentation
 https://kodekloud.com/kk-media/image/upload/v1702469024/course-resource-new/Kubernetes-CKA-0500-Cluster-Maintenance-v1.2-1.pdf
 
 7. Security	46 Lessons
+Article on setting up basic authentication
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/77826599-d456-4cb5-8cbc-b713cc077b45/lesson/d4da807b-c895-4f14-b917-d3950090fe0b
+Certificate Health Check Spreads
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/77826599-d456-4cb5-8cbc-b713cc077b45/lesson/71b7586c-4247-433b-afb4-cb1977843d49
+https://github.com/mmumshad/kubernetes-the-hard-way/tree/master/tools
+kubectx adn kubens commands
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/77826599-d456-4cb5-8cbc-b713cc077b45/lesson/91dd8819-ae06-448b-ad2c-b4eecf496213
+Presentation
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/77826599-d456-4cb5-8cbc-b713cc077b45/lesson/504e8160-ab08-40a7-92da-0a868b4cb3b4
+Kubernetes-CKA-0600-Security.pdf
+https://kodekloud.com/kk-media/image/upload/v1702469105/course-resource-new/Kubernetes-CKA-0600-Security-1.pdf
+Networking.pdf
+https://kodekloud.com/kk-media/image/upload/v1702469107/course-resource-new/Networking-1.pdf
 
 8. Storage	15 Lessons
+Using PVC in pods
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/883f0aa9-3aa9-45a6-bd26-3a87ded1e00e/lesson/8e0977e5-1673-498a-8a50-e1d8bd979611
+Presentation
+https://kodekloud.com/kk-media/image/upload/v1702469182/course-resource-new/Kubernetes-CKA-0700-Storage.pdf
 
 9. Networking	36 Lessons
+Prerequisite CoreDNS
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/44bc9a9f-319c-40ee-babd-0f7b53a70de7/lesson/68fd1f0a-d48e-4081-b90f-a8664cc85ec1
+FAQ
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/44bc9a9f-319c-40ee-babd-0f7b53a70de7/lesson/0cee34c0-16ee-4fc4-8741-75b5fa5c9852
+Important note about CNI and CKA exam
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/44bc9a9f-319c-40ee-babd-0f7b53a70de7/lesson/33c17a91-e4b5-47a0-9212-c5c4c136c1a1
+Article Ingress
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/44bc9a9f-319c-40ee-babd-0f7b53a70de7/lesson/c11a00f5-0b77-4372-9926-08e8673e385d
+Ingress - Annotations and rewrite-target
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/44bc9a9f-319c-40ee-babd-0f7b53a70de7/lesson/812d479e-0655-44af-ab65-b69475a20e09
+Practical Guide to GatewayAPI
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/44bc9a9f-319c-40ee-babd-0f7b53a70de7/lesson/37a5f5e8-53b2-4f56-b5e1-23c1fd1a66ec
+Presentation
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/44bc9a9f-319c-40ee-babd-0f7b53a70de7/lesson/4b30c2a1-c65c-43ef-836d-83efa4e03383
+https://kodekloud.com/kk-media/image/upload/v1702469378/course-resource-new/Kubernetes-CKA-0800-Networking.pdf
+https://kodekloud.com/kk-media/image/upload/v1702469380/course-resource-new/Ingress.pdf
 
 10. Design and Install a Kubernetes Cluster	6 Lessons
+Important Update: Kubernetes the Hard Way
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/245617d7-2c45-44bc-84f8-5209c0e816d0/lesson/c86d2034-c012-4ca5-8ddc-0ad1a892e946
+https://www.youtube.com/watch?v=uUupRagM7m0&list=PL2We04F3Y_41jYdadX55fdJplDvgNGENo
+https://github.com/mmumshad/kubernetes-the-hard-way
+Presentation
+https://kodekloud.com/kk-media/image/upload/v1702469421/course-resource-new/Kubernetes-CKA-0900-Install.pdf
 
 11. Install "Kubernetes the kubeadm way"	6 Lessons
+Resources
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/357c2670-c16c-49ac-aa27-8af52523afde/lesson/47f5c667-2941-4494-bc24-51e685301374
+The vagrant file used in the next video is available here:
+https://github.com/kodekloudhub/certified-kubernetes-administrator-course
+Here’s the link to the documentation:
+https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
 
 12. Helm Basics (2025 Updates)	11 Lessons
+Helm for Beginners
+https://learn.kodekloud.com/user/courses/helm-for-beginners
+Notes
+https://notes.kodekloud.com/docs/Helm-for-Beginners/Introduction/Course-Introduction
+Presentation
+https://kodekloud.com/kk-media/image/upload/v1702627962/course-resource-new/helm-deck.pdf
 
 13. Kustomize Basics (2025 Updates)	22 Lessons
 
 14. Troubleshooting	13 Lessons
+Network Troubleshooting
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/aff99955-65fd-443e-950f-3b25d3311bc2/lesson/0f5d858d-e2a1-454f-a7b9-83c2e87f9bc9
+Presentation
+https://kodekloud.com/kk-media/image/upload/v1702469585/course-resource-new/Kubernetes-CKA-1000-Troubleshooting-1.pdf
 
 15. Other Topics	3 Lessons
+Prerequisites JSON Path
 
 16. Lightning Labs	2 Lessons
-
-17. Mock Exams	11 Lessons
-
-
-https://kodekloud.com/kk-media/image/upload/v1702468163/course-resource-new/Kubernetes-CKA-0100-Core-Concepts-1.pdf
-https://kodekloud.com/kk-media/image/upload/v1702468165/course-resource-new/Kubernetes-services.pdf
-
-https://notes.kodekloud.com/docs/CKA-Certification-Course-Certified-Kubernetes-Administrator/Introduction/Course-Introduction
-
-https://github.com/kodekloudhub/certified-kubernetes-administrator-course
-
-https://github.com/kubernetes/community/blob/master/contributors/devel/sig-scheduling/scheduling_code_hierarchy_overview.md
-
-https://kubernetes.io/blog/2017/03/advanced-scheduling-in-kubernetes/
-
-https://jvns.ca/blog/2017/07/27/how-does-the-kubernetes-scheduler-work/
-
-https://stackoverflow.com/questions/28857993/how-does-kubernetes-scheduler-work
-
-Kube adm Install
-The vagrant file used in the next video is available here:
-https://github.com/kodekloudhub/certified-kubernetes-administrator-course
-https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
-Here’s the link to the documentation:
-https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/install-kubeadm/
+https://learn.kodekloud.com/user/courses/cka-certification-course-certified-kubernetes-administrator/module/ff81e3c9-7d91-490f-80a0-3f1b69bb1e60/lesson/a4fbb4ce-fc5e-4860-8558-d914d07c2469
